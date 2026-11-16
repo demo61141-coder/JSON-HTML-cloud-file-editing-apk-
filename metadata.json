@@ -1,0 +1,6 @@
+{
+  "name": "NewsCut Studio",
+  "description": "Mobile-first vertical news documentary video editor & timeline animation studio with Reporter Hasan Damudya investigative theme and multi-resolution 9:16 MP4 export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
